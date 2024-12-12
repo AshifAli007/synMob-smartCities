@@ -49,12 +49,3 @@ Demonstration of the LSTM model used for predicting future traffic routes.
 ![Short vs Long Trips](Results/short_long.png)
 
 Comparative analysis of short and long-distance trips within the city.
-
-## Getting Started
-
-To get a local copy up and running follow these simple steps:
-
-```bash
-git clone https://github.com/yourusername/your-project-name.git
-cd your-project-name
-# Further installation commands
